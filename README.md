@@ -1,3 +1,9 @@
-# API for Monica 2.1 App
+# Monica API
 
-Software Development 2 Project by Raihan (140810160013), Rifqy (140810160055), and Patricia (140810160065).
+Website API for [Monica app](https://github.com/RaihanAk/Monica_ppl1-project).
+
+Jangan main main sama API yahhh
+
+ehe
+
+Final project PPL2 - Proyek Perangkat Lunak 2.
