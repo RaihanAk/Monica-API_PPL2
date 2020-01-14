@@ -22,7 +22,7 @@ And all the requisites that comes for them.
 
 After you've cloned this project :
 1. Create a file named `.env`. Example [here](https://github.com/laravel/laravel/blob/master/.env.example).
-2. Set the connection to MySQL localhost database. Make sure you type correctly for username and password as they're needed for authentication purposes.
+2. Set the connection to MySQL localhost database. Make sure you type correctly for username and password as they're needed for authentication purposes. </br>
 `DB_CONNECTION=mysql
 DB_HOST=localhost
 DB_PORT=3306
