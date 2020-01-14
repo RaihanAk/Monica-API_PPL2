@@ -7,7 +7,6 @@ API for Monica 2.1 App using Laravel. It handles :
 2. Create new user
 3. Get user data (based on ID or all of 'em)
 4. Create new committee
-</br>
 
 You can test by simply accessing the website using Web Browser of your choice or [Postman](https://www.getpostman.com/).
 
@@ -17,6 +16,7 @@ This project was tested using localhost, so as prerequisites you need :
 1. XAMPP
 2. Apache
 3. MySQL
+
 And all the requisites that comes for them.
 </br>
 
