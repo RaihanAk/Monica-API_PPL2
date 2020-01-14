@@ -23,12 +23,12 @@ And all the requisites that comes for them.
 After you've cloned this project :
 1. Create a file named `.env`. Example [here](https://github.com/laravel/laravel/blob/master/.env.example).
 2. Set the connection to MySQL localhost database. Make sure you type correctly for username and password as they're needed for authentication purposes. </br>
-`DB_CONNECTION=mysql
-DB_HOST=localhost
-DB_PORT=3306
-DB_DATABASE=monica_db
-DB_USERNAME=root
-DB_PASSWORD=`
+`DB_CONNECTION=mysql` </br>
+`DB_HOST=localhost` </br>
+`DB_PORT=3306` </br>
+`DB_DATABASE=monica_db` </br>
+`DB_USERNAME=root` </br>
+`DB_PASSWORD=`
 3. All set. You can start test it on Postman to create user, post to http://localhost/monica-api/public/api/signup.
 
 ## About
