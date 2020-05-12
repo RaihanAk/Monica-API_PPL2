@@ -2,4 +2,4 @@
 .env
 Homestead.json
 Homestead.yaml
-/database/seeds/
+database/seeds/
